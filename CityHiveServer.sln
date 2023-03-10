@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityHiveServer", "CityHiveServer\CityHiveServer.csproj", "{A306D71B-2991-46B6-8F05-D981B25FFE03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityHiveInfrastructure", "CityHiveInfrastructure\CityHiveInfrastructure.csproj", "{59254B3E-714A-47E7-A20A-9E988E226842}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityHiveTwilio", "CityHiveTwilio\CityHiveTwilio.csproj", "{7BE1FBB2-9FA7-485A-BF4C-53C99330199D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityHiveTwilioCore", "CityHiveTwilioCore\CityHiveTwilioCore.csproj", "{BC18AD37-4473-4138-A103-916938510D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A306D71B-2991-46B6-8F05-D981B25FFE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A306D71B-2991-46B6-8F05-D981B25FFE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A306D71B-2991-46B6-8F05-D981B25FFE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A306D71B-2991-46B6-8F05-D981B25FFE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59254B3E-714A-47E7-A20A-9E988E226842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59254B3E-714A-47E7-A20A-9E988E226842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59254B3E-714A-47E7-A20A-9E988E226842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59254B3E-714A-47E7-A20A-9E988E226842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE1FBB2-9FA7-485A-BF4C-53C99330199D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE1FBB2-9FA7-485A-BF4C-53C99330199D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE1FBB2-9FA7-485A-BF4C-53C99330199D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE1FBB2-9FA7-485A-BF4C-53C99330199D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC18AD37-4473-4138-A103-916938510D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC18AD37-4473-4138-A103-916938510D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC18AD37-4473-4138-A103-916938510D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC18AD37-4473-4138-A103-916938510D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A62D7E-1C1F-4839-B742-E4030AD442F6}
+	EndGlobalSection
+EndGlobal
